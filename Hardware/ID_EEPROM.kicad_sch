@@ -1449,32 +1449,32 @@
 			)
 		)
 		(pin "3"
-			(uuid "0c0adb12-3fe9-4035-9ab7-f0d60c0be2d8")
+			(uuid "c0d0ec58-991e-4678-be40-48c494342861")
 		)
 		(pin "8"
-			(uuid "653caef2-cb91-43a7-b088-a724e328bac0")
+			(uuid "ffc16d10-205b-422b-9fe6-bf78b936fd45")
 		)
 		(pin "6"
-			(uuid "e4346ec3-8157-4163-958c-765608159187")
+			(uuid "420e6ae7-b0e0-4a22-9717-138aed773d56")
 		)
 		(pin "2"
-			(uuid "fb23cb44-6b05-4f79-a335-7578d032d0ae")
+			(uuid "ba09d8c0-b5d8-48f5-8320-25a508963e32")
 		)
 		(pin "1"
-			(uuid "40e3a11a-faed-47e4-8f51-2f68bffe795f")
+			(uuid "9439c9b5-370a-44fb-a3c9-97008bcbc240")
 		)
 		(pin "4"
-			(uuid "feea33d8-b601-469b-bead-f3d3db35f03d")
+			(uuid "2f4e4eee-aae3-45fc-92cc-2322667c931c")
 		)
 		(pin "7"
-			(uuid "40ffd76a-8536-4042-a60f-0578205dc53c")
+			(uuid "93d0a79e-a06c-4cde-8064-5f4d4b03472a")
 		)
 		(pin "5"
-			(uuid "d6c04b36-42c6-4c50-be7b-a8dc6cd36ff6")
+			(uuid "dec69aa2-521c-4f16-bd7b-20916d5167c9")
 		)
 		(instances
 			(project "MMS3_hat_templates"
-				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
+				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/e26ef2a0-acd8-49a6-a54d-c8d8138544b6"
 					(reference "U2")
 					(unit 1)
 				)
@@ -1548,11 +1548,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "13b4ae36-0496-4c03-b2d0-173edd7fc00d")
+			(uuid "bac97fc3-8a3c-46ad-b740-28b72c52b577")
 		)
 		(instances
 			(project "MMS3_hat_templates"
-				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
+				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/e26ef2a0-acd8-49a6-a54d-c8d8138544b6"
 					(reference "#PWR045")
 					(unit 1)
 				)
@@ -1626,11 +1626,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "a086252a-3cc6-46e1-a3cc-e808133acbfd")
+			(uuid "d2a54e2a-9d4a-439a-80fb-fe3b0db8aff2")
 		)
 		(instances
 			(project "MMS3_hat_templates"
-				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
+				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/e26ef2a0-acd8-49a6-a54d-c8d8138544b6"
 					(reference "#PWR044")
 					(unit 1)
 				)
@@ -1870,14 +1870,14 @@
 			)
 		)
 		(pin "1"
-			(uuid "6c5900c3-fbe6-40e6-8d96-f6cb7df03fce")
+			(uuid "9ad67efe-f153-4439-a53f-31461bc4c0bf")
 		)
 		(pin "2"
-			(uuid "9deef5c5-5f94-4b1a-ab3a-4d8c57af0a98")
+			(uuid "a0ab06dd-fa94-4ee5-8d10-656f4f417b5a")
 		)
 		(instances
 			(project "MMS3_hat_templates"
-				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
+				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/e26ef2a0-acd8-49a6-a54d-c8d8138544b6"
 					(reference "C2")
 					(unit 1)
 				)
@@ -1953,11 +1953,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "68f239fe-dbb6-45e8-a57e-f1bd33cd0703")
+			(uuid "6ea09c86-23f3-4929-ab00-8f60df48caaa")
 		)
 		(instances
 			(project "MMS3_hat_templates"
-				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
+				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/e26ef2a0-acd8-49a6-a54d-c8d8138544b6"
 					(reference "#PWR043")
 					(unit 1)
 				)
@@ -2031,11 +2031,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "236e8ef2-9f2d-4002-8acc-d9fee3ec57e7")
+			(uuid "4062b1dc-9d88-4a19-80fd-1afb4f330acb")
 		)
 		(instances
 			(project "MMS3_hat_templates"
-				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/56050d79-5900-47d6-893d-3da0e8bf5810"
+				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/e26ef2a0-acd8-49a6-a54d-c8d8138544b6"
 					(reference "#PWR042")
 					(unit 1)
 				)
