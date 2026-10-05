@@ -1,4 +1,4 @@
-# Templatka Hat'ów ChainBus
+# Hat hat expander
 
 ![zdjęcie hata](Hat_image.png)
 
